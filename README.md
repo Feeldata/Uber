@@ -29,7 +29,7 @@ This project analyzes An Uber driver trip data to uncover patterns in profitabil
 - Standardized and cleaned pick-up locations: removed accents, special characters, and harmonized neighborhood names.
 - Repeated the cleaning process for drop-off locations.
 - Created a new column combining pick-up and drop-off into a single "route" field.
-- Filtered out duplicate records.
+- Filtered out duplicate records to be left with 722 unique trips.
 - Identified and standardized 102 unique neighborhoods, enabling route and neighborhood analysis.
 - Created a "time of day" column to group trips into morning, afternoon, and night for richer analysis.
 - Retained a seasonal category to track trends across different periods (e.g., season one vs. season two).
