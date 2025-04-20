@@ -8,6 +8,8 @@ This project analyzes An Uber driver trip data to uncover patterns in profitabil
 
 [View the Tableau Public Dashboard](https://public.tableau.com/views/UberTripAnalysisdashboard/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<img width="1260" alt="Dashboard" src="https://github.com/user-attachments/assets/a00cd39f-8ff7-427a-b207-9c101f5ab0de" />
+
 ---
 
 ## Key Business Questions
